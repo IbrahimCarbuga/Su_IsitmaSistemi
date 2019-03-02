@@ -1,0 +1,36 @@
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.exe.config
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.exe
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.pdb
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.Properties.Resources.resources
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.csproj.GenerateResource.Cache
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.exe
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.pdb
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.AnaForm.resources
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.GirisGrafik.resources
+C:\Users\aslan\Desktop\Makine Öğrenmesi\Projeler\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.KuralTablosu.resources
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.exe.config
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.exe
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.pdb
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.exe
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.pdb
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.AnaForm.resources
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.GirisGrafik.resources
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.KuralTablosu.resources
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.Properties.Resources.resources
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.csproj.GenerateResource.Cache
+C:\Users\aslan\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.CikisGrafik.resources
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.exe.config
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.exe
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\bin\Debug\Su Isıtma Sistemi.pdb
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.AnaForm.resources
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.CikisGrafik.resources
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.GirisGrafik.resources
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.KuralTablosu.resources
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su_Isıtma_Sistemi.Properties.Resources.resources
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.csproj.GenerateResource.Cache
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.exe
+C:\Users\Vaio\Desktop\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\Su Isıtma Sistemi\obj\Debug\Su Isıtma Sistemi.pdb
